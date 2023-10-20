@@ -10,4 +10,5 @@ conda env create -f environment.yml
 Une fois que vous avez installé les dépendances requises, vous pouvez exécuter le projet à l'aide de django. 
 
 Pour démarrer l'application, exécutez la commande suivante :
+
 python manage.py runserver
